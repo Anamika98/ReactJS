@@ -1,0 +1,77 @@
+
+body {
+  background-image: url(./images/galaxy.gif);
+}
+
+.headerh1 {
+  color: white;
+  text-align: center;
+}
+
+.banner1 {
+  display: flex;
+  column-gap: 20px;
+  justify-content: center;
+}
+
+.button {
+  height: 23px;
+  width: 200px;
+}
+
+.button1 {
+  width: 200px;
+  height: 28px;
+}
+
+.button3 {
+  background-color: chocolate;
+  color: aliceblue;
+}
+
+.images {
+  height: 350px;
+  margin-top: 25px;
+  margin-left: 30px;
+}
+
+.banner2 {
+  display: grid;
+  grid-template-columns: auto auto;
+  height: 400px;
+  width: 900px;
+  background-color: #f0eeea2b;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.banner3 {
+  height: 180px;
+  width: 451px;
+  margin: auto;
+  background-color: #f0eeea26;
+  margin-left: 10px;
+}
+
+.header2 {
+  display: flex;
+  justify-content: center;
+  color: #f8f7f7;
+  font-weight: 700;
+}
+
+.banner4 {
+  background-color: #ffffff29;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  color: #ffffff;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+
